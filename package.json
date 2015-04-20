@@ -1,0 +1,30 @@
+{
+  "name": "node-cryptex",
+  "version": "0.0.1",
+  "description": "string data encryption/decryption for node.js & io.js",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node tests/js/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jmlevick/node-cryptex"
+  },
+  "keywords": [
+    "data",
+    "string",
+    "encryption",
+    "decryption",
+    "security",
+    "privacy",
+    "cryptex"
+  ],
+  "author": "Manuel Escudero <https://twitter.com/Jmlevick>",
+  "license": "Coffeeware <https://github.com/Jmlevick/coffeeware-license>",
+  "bugs": {
+    "url": "https://github.com/Jmlevick/node-cryptex/issues"
+  }
+}
