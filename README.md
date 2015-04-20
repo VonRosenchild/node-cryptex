@@ -10,12 +10,14 @@ This is a module for helping you **encrypting/decrypting** string data inside **
 
 Using the module it's fairly simple, Just take a look at the example available in the **tests** folder to have an idea of how easy the implementation is:
 
-> Example: https://github.com/Jmlevick/node-cryptex/tree/master/tests
+> Example: [https://github.com/Jmlevick/node-cryptex/tree/master/tests][1]
 
-Created by: [@Jmlevick][1]  
-License: [Coffeeware][2]
+Created by: [@Jmlevick][2]  
+License: [Coffeeware][3]
 
 [![tipme](https://spideroak.com/share/PBSW433EMVZXS43UMVWXG/78656e6f6465/srv/CDN/xenodecdn/tipme-small.png)](https://www.changetip.com/tipme/jmlevick) [![endorse](http://api.coderwall.com/jmlevick/endorsecount.png)](https://coderwall.com/jmlevick)
 
-  [1]: https://twitter.com/Jmlevick
-  [2]: https://github.com/Jmlevick/coffeeware-license
+
+  [1]: https://github.com/Jmlevick/node-cryptex/tree/master/tests
+  [2]: https://twitter.com/Jmlevick
+  [3]: https://github.com/Jmlevick/coffeeware-license
